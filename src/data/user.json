@@ -1,0 +1,103 @@
+[
+  {
+    "name": "rachel",
+    "phoneNumber": 5555555555,
+    "balance": 1910,
+    "email": "rachel@yahoo.com",
+    "subscribed": true,
+    "subscriptionDetails": [
+      {
+        "name": "Zee",
+        "amount": 10,
+        "isAvailable": true,
+        "duration": 1,
+        "discountPercent": 0,
+        "subscribedOn": "2020-01-04 16:15:29 pm"
+      },
+      {
+        "name": "LearnEnglish",
+        "amount": 200,
+        "isAvailable": true,
+        "duration": 1,
+        "discountPercent": 0,
+        "subscribedOn": "2020-01-04 23:19:47 pm"
+      }
+    ]
+  },
+  {
+    "name": "monica",
+    "phoneNumber": 5555555555,
+    "balance": 140,
+    "email": "monica@gmail.com",
+    "subscribed": true,
+    "subscriptionDetails": [
+      {
+        "name": "Zee",
+        "amount": 10,
+        "isAvailable": true,
+        "duration": 1,
+        "discountPercent": 0,
+        "subscribedOn": "2020-01-04 21:10:19 pm"
+      }
+    ]
+  },
+  {
+    "name": "joe",
+    "phoneNumber": 1111111111,
+    "balance": 153,
+    "email": "joe@gmail.com",
+    "subscribed": true,
+    "subscriptionDetails": [
+      {
+        "name": "Zee",
+        "amount": 10,
+        "isAvailable": true,
+        "duration": 2,
+        "discountPercent": 0,
+        "subscribedOn": "2020-01-04 23:32:09 pm"
+      },
+      {
+        "name": "Zee",
+        "amount": 10,
+        "isAvailable": true,
+        "duration": 3,
+        "discountPercent": 10,
+        "subscribedOn": "2020-01-04 23:32:30 pm"
+      }
+    ]
+  },
+  {
+    "name": "ross",
+    "phoneNumber": 9865321470,
+    "balance": 90,
+    "email": "ross@gmail.com",
+    "subscribed": true,
+    "subscriptionDetails": [
+      {
+        "name": "Zee",
+        "amount": 10,
+        "isAvailable": true,
+        "duration": 1,
+        "discountPercent": 0,
+        "subscribedOn": "2020-01-05 16:53:53 pm"
+      }
+    ]
+  },
+  {
+    "name": "pheobe",
+    "phoneNumber": 9865321470,
+    "balance": 573,
+    "email": "pheobe@yopmail.com",
+    "subscribed": true,
+    "subscriptionDetails": [
+      {
+        "name": "Zee",
+        "amount": 10,
+        "isAvailable": true,
+        "duration": 3,
+        "discountPercent": 10,
+        "subscribedOn": "2020-01-05 17:12:25 pm"
+      }
+    ]
+  }
+]
